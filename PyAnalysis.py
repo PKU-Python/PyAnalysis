@@ -215,7 +215,7 @@ class ExcelAnalyzerAsync:
 if __name__ == "__main__":
     # 配置参数
     EXCEL_PATH = "before/2.Data_Cleaning.xlsx"
-    OUTPUT_PATH = "after/2.Data_Cleaning_analyzed.xlsx"
+    OUTPUT_PATH = "after/3.Data_Cleaning_analyzed.xlsx"
     API_KEY = "yourapikey"  # 替换为您的DeepSeek API密钥
 
     # 性能优化配置
